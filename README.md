@@ -89,7 +89,7 @@
     </div>
   </div>
   <footer>
-    Created by [Your Name] for extra credit in ANTHP 101. Spring 2025.
+    Created by Jaky Uddin for extra credit in ANTHP 101. Spring 2025.
   </footer>
 </body>
 </html>
